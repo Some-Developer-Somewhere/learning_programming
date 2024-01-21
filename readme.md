@@ -1,8 +1,8 @@
 # Learning Programming
 
-https://github.com/Some-Developer-Somewhere/learning_programming
+This repo: https://github.com/Some-Developer-Somewhere/learning_programming
 
-For now, tih repo just contains som simple notes that I can share for creating an overview of how to get into programming.
+For now, this repo just contains som simple notes that I can share for creating an overview of how to get into programming.
 
 The main language will be Python, as my opinion is that that language is the best for getting into the basics of programming as it is easy to start with, and ypou can do almost anything with it.
 
