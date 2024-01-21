@@ -33,6 +33,8 @@ def list_files(directory):
 if 'current_dir' not in st.session_state:
     st.session_state.current_dir = pathlib.Path('.')
 
+st.title("File Explorer")
+
 path = os.getcwd()
 
 st.write(path)
