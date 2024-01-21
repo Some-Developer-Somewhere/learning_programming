@@ -26,7 +26,9 @@ b = 7
 print(a + b)
 ```
 
-Open a terminal and make sure the terminal shows the folder path to the folder where the file is (There are several ways to do this).
+Open a terminal and make sure the terminal shows the folder path to the folder where the file is (There are several ways to do this and it depends on the setup you have).
+<!-- TODO: Add some examples here -->
+
 
 In the terminal, write the following and press enter:
 
@@ -55,6 +57,20 @@ print(a + b)
 Result:
 ```
 12
+```
+
+### Comments
+
+```python
+# This is a code comment, and this line will not make any change to what the program does.
+
+# The followint line will print "Hello world" to the console/terminal
+print("Hello world")
+```
+
+Result:
+```
+Hello world
 ```
 
 ### Arithmetic Operations:
